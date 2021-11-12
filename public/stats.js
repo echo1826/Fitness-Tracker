@@ -1,3 +1,5 @@
+import API from './api';
+
 function calculateTotalWeight(data) {
   const totals = [];
 

@@ -1,3 +1,5 @@
+import API from './api';
+
 init();
 
 async function init() {
