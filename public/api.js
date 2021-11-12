@@ -1,4 +1,4 @@
-export const API = {
+const API = {
   async getLastWorkout() {
     let res;
     try {

@@ -1,8 +1,9 @@
-import API from './api';
+
 
 init();
 
 async function init() {
+  console.log(location.search.split("="));
   if (location.search.split("=")[1] === undefined) {
     const workout = await API.getLastWorkout();
     if (workout) {

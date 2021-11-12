@@ -1,4 +1,4 @@
-import API from './api';
+
 
 const workoutTypeSelect = document.querySelector("#type");
 const cardioForm = document.querySelector(".cardio-form");
