@@ -40,7 +40,7 @@ This repo is covered under the MIT License.
 
 # Deployment
 
-Deployed at: <> 
+Deployed at: <https://ec-fitness-tracker.herokuapp.com/> 
 
 # Tests
 
